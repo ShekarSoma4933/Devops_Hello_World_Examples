@@ -1,1 +1,3 @@
-# Devops_Hello_World_Examples
+# maven-project
+
+Simple Maven Project
